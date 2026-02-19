@@ -1,0 +1,7 @@
+ORDER_ID,CUSTOMER_NAME,PRODUCT,QUANTITY,PRICE,ORDER_DATE,STATUS,TOTAL_AMOUNT,ORDER_MONTH
+1,John Smith,Laptop,2,75000,2024-01-15,completed,150000,January
+2,Priya Kumar,Phone,1,25000,2024-01-16,completed,25000,January
+4,Sara Jones,Laptop,1,75000,2024-01-18,completed,75000,January
+6,Mike Brown,Headphones,5,3000,2024-01-20,completed,15000,January
+8,Chris Lee,Laptop,1,75000,2024-01-22,completed,75000,January
+9,Sunita Rao,Phone,3,25000,2024-01-23,completed,75000,January

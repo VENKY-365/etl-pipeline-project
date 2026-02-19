@@ -1,0 +1,11 @@
+order_id,customer_name,product,quantity,price,order_date,status
+1,John Smith,Laptop,2,75000,2024-01-15,completed
+2,Priya Kumar,Phone,1,25000,2024-01-16,completed
+3,Ravi Verma,Tablet,3,15000,2024-01-17,cancelled
+4,Sara Jones,Laptop,1,75000,2024-01-18,completed
+5,Amit Shah,Phone,2,25000,2024-01-19,pending
+6,Mike Brown,Headphones,5,3000,2024-01-20,completed
+7,Neha Patel,Tablet,2,15000,2024-01-21,cancelled
+8,Chris Lee,Laptop,1,75000,2024-01-22,completed
+9,Sunita Rao,Phone,3,25000,2024-01-23,completed
+10,David Wilson,Headphones,4,3000,2024-01-24,pending
